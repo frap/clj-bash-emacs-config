@@ -1,7 +1,8 @@
 var/
 eln-cache/
 auto-save-list/
+transient/
 *~
-*elc
+**/*elc
 custom.el
 .eldev

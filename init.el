@@ -1,5 +1,7 @@
 ;;; init.el --- basic clj emacs -*- lexical-binding: t; -*-
 ;;
+;; Version: 0.1.0
+;; Package-Requires: ((emacs "26.1") (dash "2.13") (f "0.17.2") (s "1.12.0") (emacsql "3.0.0"))
 ;; Copyright (c) 2021 Andrés Gasson
 ;;
 ;; Author: Andrés Gasson <agasson@gas-atea.local>
@@ -7,7 +9,7 @@
 ;;
 ;; Created: 11 Mar 2021
 ;;
-;; URL:
+;; URL: https://github.com/frap/clj-bash-emacs-config.git
 ;;
 ;; License: GPLv3
 ;;
